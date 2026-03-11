@@ -7,7 +7,7 @@ public class SecureOTPGenerator {
         StringBuilder otp = new StringBuilder(); 
         for (int i = 0; i < length; i++) {
             int index = random.nextInt(digits.length());
-            otp.append(digits.charAt(index));
+            otp.append(digits.charAt(index)); 
         }
         return otp.toString();
     }
