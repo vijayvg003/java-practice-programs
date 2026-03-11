@@ -11,7 +11,7 @@ This Java program generates a secure One-Time Password (OTP) using the SecureRan
 - Java
 - SecureRandom
 
-## Example Output
+## Program Output
 
-Generated Secure OTP: 482917
-Generated Secure OTP: 201647
+![Secure OTP Output](secure-otp-generatoroutput1.jpg)
+![Secure OTP Output](secure-otp-generatoroutput2.jpg)
