@@ -29,7 +29,7 @@ public class PasswordStrengthChecker {
             strength++;
         }
 
-        // check password strength
+        // check password strength level
         if (strength <= 2) {
             System.out.println("Password Strength: Weak");
         } else if (strength == 3 || strength == 4) {
