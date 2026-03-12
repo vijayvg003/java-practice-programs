@@ -46,6 +46,7 @@ public class PasswordStrengthChecker {
         System.out.print("Enter password: ");
         String password = scanner.nextLine();
 
+        // Method to check Password Strength
         checkPasswordStrength(password);
 
         scanner.close();
