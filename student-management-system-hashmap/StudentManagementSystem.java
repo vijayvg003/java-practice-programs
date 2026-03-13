@@ -1,7 +1,13 @@
-/**
- * Student Management System
- * using Java Collection Framework
- */
+/*
+ Student Management System
+ Using Java Collection Framework (HashMap)
+
+ Features:
+ - Add student
+ - View students
+ - Search student
+ - Delete student
+*/
 
 import java.util.HashMap;
 import java.util.Map;
